@@ -1,0 +1,18 @@
+body {
+  background-color: bisque;
+}
+
+img {
+  display: inline-block;
+  width: 24vw;
+  margin-right: 3px;
+}
+
+li {
+  width: 100px;
+  cursor: pointer;
+}
+
+.red {
+  color: red;
+}
